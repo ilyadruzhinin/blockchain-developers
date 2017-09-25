@@ -1,2 +1,2 @@
 Here is my signed commit.
-Alex S
+Alex
